@@ -30,7 +30,6 @@
     "express": "^4.17.2",
     "knex": "^1.0.3",
     "mysql": "^2.18.1",
-    "tsc": "^2.0.4",
     "typescript": "^4.5.5"
   },
   "devDependencies": {
